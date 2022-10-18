@@ -4,6 +4,8 @@ body{
 
 
 .navbar {
+  display: flex;
+  align-items: center;
   height: 60px;
   width: 100%;
   background-color: lightgrey;

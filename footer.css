@@ -4,6 +4,8 @@ body {
 }
 
 .footer {
+  display: flex;
+  justify-content: space-around;
   height: 150px;
   background-color: lightgrey;
 }
@@ -21,4 +23,12 @@ body {
   padding: 10px;
   width: 150px;
   font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif ;
+}
+/* Extension */
+#one {
+  line-height: 25px;
+}
+
+#three .info {
+  margin-top: 60px;
 }
